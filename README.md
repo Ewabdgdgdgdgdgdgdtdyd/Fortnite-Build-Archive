@@ -2,7 +2,6 @@ Welcome to the largest up-to-date Fortnite build archive.
 
 A build collection like no other.
 
-[If you would like to talk about builds then join my discord server!](https://discord.gg/yHwmPbAvZU)
 
 <details open>
   <summary><h1>Fortnite Builds Text Archive</h1></summary>
@@ -38,8 +37,6 @@ A build collection like no other.
 
 <details open>
   <summary><h2>Contact</h2></summary>
-  
-  Contact me through my Discord server (@llamaqwerty) or email (llama.dvorak@hotmail.com)
 
   I would love to have feedback so I know what to improve in future updates, also please address issues to me immediately
 
